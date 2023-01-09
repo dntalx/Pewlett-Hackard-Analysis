@@ -2,7 +2,7 @@
 
 ## Overview
 
-The purpose of this analysis is to determine which employees are close to theretiring age to start a mentorship program in order for Pewlett Hackard to replace those employees once they retire. We looked at employees birth dates, titles, and how long they have been working ofr the company.
+The purpose of this analysis is to determine which employees are close to retiring age to start a mentorship program in order for Pewlett Hackard to replace those employees once they retire. We looked at employees birth dates, titles, and how long they have been working ofr the company.
 
 ## Results 
 
